@@ -1,0 +1,13 @@
+A graph G, is composed of vertices V and edges E
+G = (V, E) where V is a set of vertices and E, a set of edges
+each edge is a tuple (v, w, W) where W is the weight
+a vertex has a name("key") and additional information
+
+https://interactivepython.org/runestone/static/pythonds/Graphs/TheGraphAbstractDataType.html
+
+implementation using an adjacency list
+two classes, Vertex and Graph 
+the Vertex class:
+initializes a new vertex with an id and an empty dict of neighbours
+methods to, addNeighbour, getNeighbour, getWeight given a neighbour as input, getConnections
+how to using TDD?
