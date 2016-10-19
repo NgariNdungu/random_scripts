@@ -8,3 +8,6 @@ history.py
 
 history2.py
 : An attempt at a class based implementation of history.py
+
+elevation.py
+: Use google's elevation API to get the elevation of given location. Uses python's Request library.
