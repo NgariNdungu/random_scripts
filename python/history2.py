@@ -68,7 +68,7 @@ class Commands(object):
         
 if __name__=="__main__":
     th = Commands()
-    th.getCounts('ls')
+    th.getCount('ls')
     print(th.getPercentage('ls'))
         
 
