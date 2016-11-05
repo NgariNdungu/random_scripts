@@ -2,3 +2,5 @@ __pycache__
 *~
 *.pyc
 *API.py
+test_graph.py
+notes.txt
